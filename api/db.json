@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is my stream.",
+      "id": 1
+    },
+    {
+      "title": "Your Stream",
+      "description": "This is your stream.",
+      "id": 2
+    },
+    {
+      "title": "My Stream with Id",
+      "description": "My stream has a user id.",
+      "userId": "101637880698770095735",
+      "id": 3
+    },
+    {
+      "title": "Stream GetState",
+      "description": "This server console logs getState -version 2.",
+      "id": 6
+    }
+  ]
+}
